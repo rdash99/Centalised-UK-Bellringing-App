@@ -1,2 +1,2 @@
-# Centalised UK Bellringing App
+# Centralised UK Bellringing App
  
